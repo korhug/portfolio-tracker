@@ -7,3 +7,4 @@ sqlite3
 pathlib
 typing
 streamlit_autorefresh
+__future__
