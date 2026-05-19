@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+yfinance
+sqlite3
+pathlib
+typing
+streamlit_autorefresh
+__future__
